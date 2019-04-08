@@ -7,7 +7,7 @@
 	- [矩阵分解在协同过滤推荐算法中的应用](https://www.cnblogs.com/pinard/p/6351319.html)
 	- [推荐系统中的矩阵分解技术](https://zhuanlan.zhihu.com/p/34497989)
 	- [矩阵求导、几种重要的矩阵及常用的矩阵求导公式](https://blog.csdn.net/daaikuaichuan/article/details/80620518)
-        - [论文篇：Matrix Factorization Techniques for RS](https://zhuanlan.zhihu.com/p/28577447?group_id=881547532893851649)
+	- [论文篇：Matrix Factorization Techniques for RS](https://zhuanlan.zhihu.com/p/28577447?group_id=881547532893851649)
 	- [代码 - MF 实现](https://nbviewer.jupyter.org/github/DL-Metaphysics/APR/blob/master/MF/MF.ipynb)
 	
 * ### BPR 相关
