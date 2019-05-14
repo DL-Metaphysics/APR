@@ -17,8 +17,11 @@
 * ### GAN 相关
 	- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 	- [GAN完整理论推导与实现](https://www.jiqizhixin.com/articles/2017-10-1-1)
-	- [适用于初学者学习的GAN项目](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
+	- [Video - 生成式对抗网络](http://www.mooc.ai/course/268/learn?lessonid=2376&groupId=19#lesson/2376)
+	- [Video - Assignment 3](http://www.mooc.ai/course/486/learn?lessonid=2670#lesson/2670)
+	- [Generative Adversarial Networks (GANs)](https://nbviewer.jupyter.org/github/Observerspy/CS231n/blob/master/assignment3/GANs-TensorFlow.ipynb)
 
+	
 ## 实践
 
 - [官方项目地址](https://github.com/hexiangnan/adversarial_personalized_ranking)
